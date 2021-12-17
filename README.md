@@ -1,2 +1,2 @@
 # wsn_master_mestrado
-Midificação do WSN-MASTER
+Modificação do WSN-MASTER para a Dissertação de Mestrado
